@@ -88,7 +88,7 @@ L'application sera accessible sur `http://localhost:3000`
 | Champ | Type | Description | Exemple |
 |-------|------|-------------|---------|
 | `country` | string | Nom du pays (affiché) | "France" |
-| `city` | string | Nom de la ville (affiché) | "Lyon" |
+| `city` | string | Nom de la ville (affiché) | "Paris" |
 | `latitude` | number | Latitude GPS | 48.8566 |
 | `longitude` | number | Longitude GPS |  2.3522 |
 
