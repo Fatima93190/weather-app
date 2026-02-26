@@ -2,7 +2,7 @@
 
 Application météo conçue pour les écrans d'information dans les transports en commun.
 
-![Alt img](/assets/screenshot.png)
+![Alt img](./assets/screenshot.png)
 
 ##  Contexte du projet
 
