@@ -45,10 +45,9 @@ Ce projet est une adaptation de [weather-app par madzadev](https://github.com/ma
 - npm
 
 
-<div style="background-color: #FFF3CD; padding: 10px; border-left: 4px solid #FFC107;">
-⚠️ <strong>Warning:</strong> Ce projet utilise Next.js 11.<br>
-Si vous utilisez Node 17+ ou 22+, une configuration OpenSSL est nécessaire (déjà incluse dans les scripts).
-</div>
+> ⚠️ **Warning:** Ce projet utilise Next.js 11.  
+> Si vous utilisez Node 17+ ou 22+, une configuration OpenSSL est nécessaire (déjà incluse dans les scripts).
+
 
 ### Étapes
 
